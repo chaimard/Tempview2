@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mnuNew" type="id">1</item>
+    <item name="mnuOpen" type="id">2</item>
+    <item name="btnContact" type="id">5</item>
+</resources>
